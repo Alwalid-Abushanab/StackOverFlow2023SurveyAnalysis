@@ -14,7 +14,7 @@ there is one notebook available to show the work done to answer the above questi
 Markdown cells were used to help viewers navigate through the different steps.
 
 # Results
-The results of my analysis can be found at the post available [here]().
+The results of my analysis can be found at the post available [here](https://medium.com/@alwalid.sabu/how-to-learn-programming-1ae8a7dd08bc).
 
 # Licensing, Authors, Acknowledgements
 the data was taken from Stack Overflow. this can be found [here](https://insights.stackoverflow.com/survey).
